@@ -1,3 +1,3 @@
 export default {
-    API_ENDPOINT: `https://whispering-basin-44032.herokuapp.com/api`
+    API_ENDPOINT: `https://thawing-fjord-46211.herokuapp.com/api`
 }
