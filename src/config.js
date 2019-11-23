@@ -1,3 +1,3 @@
 export default {
-    API_ENDPOINT: `https://cryptic-caverns-14507.herokuapp.com/`,
+    API_ENDPOINT: `https://whispering-basin-44032.herokuapp.com/api`
 }
